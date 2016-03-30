@@ -1,6 +1,6 @@
-7bae63a234e80ee7c6427dce9fdba6cc  data/CONTRIBUTOR.md
+b5dc6f7ea5be23c4834f0d4c8e1cc98c  data/CONTRIBUTOR.md
 7bae63a234e80ee7c6427dce9fdba6cc  data/LICENSE.md
-e1f58b5a6d479d18dff00a6b1faeb358  data/LICENSE.ttl
+f7ae63dbdb422138451433ed136f2f71  data/LICENSE.ttl
 21da04e9e4e63d07a0fe44e9e735fc72  data/README.md
 e341a2a9fafb1b2892697a6b51d1c770  data/description.json-ld
 adc5a4d4b1d695c52ed5fb5a0a408af3  data/description.rdf

@@ -1,6 +1,6 @@
-34b2b37ec594d86bd391137b4fb644eccb17bdbb  data/CONTRIBUTOR.md
+be753ad5f0640fabc790a0a853c99f94743b6f0d  data/CONTRIBUTOR.md
 34b2b37ec594d86bd391137b4fb644eccb17bdbb  data/LICENSE.md
-a31164537b9475caf9d89f80dbf967b44c15dbca  data/LICENSE.ttl
+336739b1983afc0a6439b3a15f30b75a7fd77cb4  data/LICENSE.ttl
 f7116cc6b66d4fcc579721d9953070487b0e28ba  data/README.md
 7ad0a31a8ecf936c07e328737ba39305435116eb  data/description.json-ld
 a923c390afdca5e4fb9d3bf0c5d713779a25444b  data/description.rdf
