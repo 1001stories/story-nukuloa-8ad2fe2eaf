@@ -1,0 +1,14 @@
+34b2b37ec594d86bd391137b4fb644eccb17bdbb  data/CONTRIBUTOR.md
+34b2b37ec594d86bd391137b4fb644eccb17bdbb  data/LICENSE.md
+a31164537b9475caf9d89f80dbf967b44c15dbca  data/LICENSE.ttl
+f7116cc6b66d4fcc579721d9953070487b0e28ba  data/README.md
+7ad0a31a8ecf936c07e328737ba39305435116eb  data/description.json-ld
+a923c390afdca5e4fb9d3bf0c5d713779a25444b  data/description.rdf
+a31164537b9475caf9d89f80dbf967b44c15dbca  data/description.ttl
+a31164537b9475caf9d89f80dbf967b44c15dbca  data/technical.flac.ttl
+a31164537b9475caf9d89f80dbf967b44c15dbca  data/transcription.fr.ttml
+a31164537b9475caf9d89f80dbf967b44c15dbca  data/transcription.mi.ttml
+a31164537b9475caf9d89f80dbf967b44c15dbca  data/transcription.ttml
+de69676b7ec2a6a0a99eebe853fa1a55a4549639  data/audio/interview.flac
+da01d125db3cabf10a5a67cd6e3e6a81c885eb45  data/audio/interview.mp3
+b1e6dfd4d6c00b71f7a9ca6f94e8f237978752b0  data/images/cover.jpg

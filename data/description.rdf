@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:schema="http://schema.org/">
+
+  <schema:AudioObject rdf:about="http://1001Stories.org/ark:/#34567/dfdghvbjk">
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nukuloa-i-Gau</schema:name>
+    <schema:description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Natanieli Seru tells the story of water in his village, Nukuloa, on the island of Gau.</schema:description>
+    <schema:datecreated>2014-11-04</schema:datecreated>
+    <schema:locationCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nukuloa-i-Gau, Fiji</schema:locationCreated>
+    <schema:duration>P0Y0M0DT0H14M57S</schema:duration>
+  </schema:AudioObject>
+
+</rdf:RDF>
