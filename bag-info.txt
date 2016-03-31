@@ -1,5 +1,4 @@
 Bag-Software-Agent: bagit.py <http://github.com/libraryofcongress/bagit-python>
-Bagging-Date: 2016-03-30
-Organization-Address: 1001stories
-Payload-Oxum: 64474719.14
-Source-Organization: 1001Stories
+Bagging-Date: 2016-03-31
+Payload-Oxum: 64475232.14
+Source-Organization: 1001stories

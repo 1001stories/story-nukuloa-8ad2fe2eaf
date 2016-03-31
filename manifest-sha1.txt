@@ -2,9 +2,9 @@ be753ad5f0640fabc790a0a853c99f94743b6f0d  data/CONTRIBUTOR.md
 34b2b37ec594d86bd391137b4fb644eccb17bdbb  data/LICENSE.md
 336739b1983afc0a6439b3a15f30b75a7fd77cb4  data/LICENSE.ttl
 f7116cc6b66d4fcc579721d9953070487b0e28ba  data/README.md
-7ad0a31a8ecf936c07e328737ba39305435116eb  data/description.json-ld
-a923c390afdca5e4fb9d3bf0c5d713779a25444b  data/description.rdf
-a31164537b9475caf9d89f80dbf967b44c15dbca  data/description.ttl
+258d83bc419a0f46a20252962b9a92752a2c8fed  data/description.json-ld
+94651480eb2bb6fa436782abf3549a53d7459c4a  data/description.rdf
+0e0efb746dd90a9614b9e0a3d050a5fa7c06cc58  data/description.ttl
 a31164537b9475caf9d89f80dbf967b44c15dbca  data/technical.flac.ttl
 a31164537b9475caf9d89f80dbf967b44c15dbca  data/transcription.fr.ttml
 a31164537b9475caf9d89f80dbf967b44c15dbca  data/transcription.mi.ttml
